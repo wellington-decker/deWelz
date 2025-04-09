@@ -1,6 +1,6 @@
 # deWelz
 
-<h3> 👋Hi there! I'm Decker Wellington </h3> 
+<h2> 👋 Hi there! I'm Decker Wellington </h2> 
 💻 A CS graduate from the prestigious University of Lagos <br/>
 🤔 Interested in Data Analytics/ Data Science <br/>
 📈 Learning Data Analytics with a growing interest in using data to solve real-world problems<br/>
